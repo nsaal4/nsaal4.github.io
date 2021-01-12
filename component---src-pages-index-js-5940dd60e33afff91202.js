@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),i={marginTop:0,marginBottom:64,maxWidth:320};t.default=function(){return a.createElement("main",{style:pageStyles},a.createElement("title",null,"Home Page"),a.createElement("h1",{style:i},"Hey! I'm Nour Abeid"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-5940dd60e33afff91202.js.map

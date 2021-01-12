@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,t,n){"use strict";n.r(t);var o=n("q1tI"),a={color:"#232129",padding:"96px",fontFamily:"-apple-system, Roboto, sans-serif, serif"},i={marginTop:0,marginBottom:64,maxWidth:320};t.default=function(){return o.createElement("main",{style:a},o.createElement("title",null,"Home Page"),o.createElement("h1",{style:i},"Hey! I'm Nour Abeid"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-4dc1df3a90e676022f5e.js.map
