@@ -16,7 +16,7 @@ const headingStyles = {
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Home Page</title>
+      <title>Nour Abeid | Portfolio</title>
       <h1 style={headingStyles}>
         Hey! I'm Nour Abeid
       </h1>
