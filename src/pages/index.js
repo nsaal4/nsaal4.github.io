@@ -18,7 +18,7 @@ const IndexPage = () => {
     <main style={pageStyles}>
       <title>Nour Abeid | Portfolio</title>
       <h1 style={headingStyles}>
-        Hey! I'm Nour Abeid. This is my Portfolio
+        Hey! I'm Nour Abeid
       </h1>
       
     </main>
