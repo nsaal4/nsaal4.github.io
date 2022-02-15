@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
       title: `my_portfolio`,
-    siteUrl: `https://www.yourdomain.tld`
+    siteUrl: `https://www.nsaal4.github.io`
   },
   plugins: [
     "gatsby-plugin-image", "gatsby-plugin-react-helmet", "gatsby-plugin-sitemap", {
